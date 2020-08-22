@@ -1,0 +1,2 @@
+population uk : 646646464646
+population usa : 646464664
